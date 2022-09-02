@@ -115,30 +115,49 @@ body {
             transition: fill 0.2s ease;
         }
 
-        .map--key-item>path,
-        .map--key-item>path {
+        &:not(.map-area--parking) .map--key-item>.ellipse {
+            stroke: #4f69aa;
+            fill: none !important;
+        }
+
+        .map--key-item>path:not(.background-area) {
             fill: #4f69aa;
         }
 
-        .map--key-item:focus>path,
-        .map--key-item:hover>path {
-            fill: #dd6ba9;
+        .map--key-item:hover>.ellipse {
+            stroke: #336ef9;
         }
 
-        .map--key-item>g path,
-        .map--key-item>g path {
-            fill: #4f69aa;
+        .map--key-item:focus>path:not(.background-area),
+        .map--key-item:hover>path:not(.background-area) {
+            fill: #336ef9;
         }
 
-        .map--key-item:focus>g path,
-        .map--key-item:hover>g path {
-            fill: #dd6ba9;
+        &.map-area--parking .map--key-item>.ellipse {
+            fill: #4f69aa !important;
+            stroke: #4f69aa !important;
         }
 
-    }
+        &.map-area--building-name .map--key-item>path.inner-character,
+        &.map-area--parking .map--key-item>path.inner-character {
+            fill: #FFF !important;
+        }
 
-    .map--key-item {
-        background-color: white;
+        &.map-area--parking .map--key-item:focus>.ellipse,
+        &.map-area--parking .map--key-item:hover>.ellipse {
+            fill: #336ef9 !important;
+            stroke: #336ef9 !important;
+        }
+
+        &.map-area--building-name .map--key-item>path.icon-background {
+            fill: #939190 !important;
+        }
+
+        &.map-area--building-name .map--key-item:focus>path.icon-background,
+        &.map-area--building-name .map--key-item:hover>path.icon-background {
+            fill: #336ef9 !important;
+        }
+
     }
 
     &.sidebar--active::after {
