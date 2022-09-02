@@ -124,15 +124,6 @@ body {
             fill: #4f69aa;
         }
 
-        .map--key-item:hover>.ellipse {
-            stroke: #336ef9;
-        }
-
-        .map--key-item:focus>path:not(.background-area),
-        .map--key-item:hover>path:not(.background-area) {
-            fill: #336ef9;
-        }
-
         &.map-area--parking .map--key-item>.ellipse {
             fill: #4f69aa !important;
             stroke: #4f69aa !important;
@@ -143,19 +134,36 @@ body {
             fill: #FFF !important;
         }
 
-        &.map-area--parking .map--key-item:focus>.ellipse,
-        &.map-area--parking .map--key-item:hover>.ellipse {
-            fill: #336ef9 !important;
-            stroke: #336ef9 !important;
-        }
-
         &.map-area--building-name .map--key-item>path.icon-background {
             fill: #939190 !important;
         }
 
-        &.map-area--building-name .map--key-item:focus>path.icon-background,
-        &.map-area--building-name .map--key-item:hover>path.icon-background {
-            fill: #336ef9 !important;
+        &:not(.is-disabled) {
+
+            .map--key-item:hover>.ellipse {
+                stroke: #336ef9;
+            }
+
+            .map--key-item:focus>path:not(.background-area),
+            .map--key-item:hover>path:not(.background-area) {
+                fill: #336ef9;
+            }
+
+            &.map-area--parking .map--key-item:focus>.ellipse,
+            &.map-area--parking .map--key-item:hover>.ellipse {
+                fill: #336ef9 !important;
+                stroke: #336ef9 !important;
+            }
+
+            &.map-area--building-name .map--key-item:focus>path.icon-background,
+            &.map-area--building-name .map--key-item:hover>path.icon-background {
+                fill: #336ef9 !important;
+            }
+
+        }
+
+        &.is-disabled {
+            cursor: default;
         }
 
     }

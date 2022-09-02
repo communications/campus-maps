@@ -32,7 +32,7 @@
         "id": "uusu",
         "title": "UUSU",
         "image": "./assets/src/img/uusu.png",
-        "content": "You automatically become a member of the Students’ Union UUSU from your first day. They are your voice in the university and here to represent and support you. The calendar is packed with events, activities, clubs and societies so you can really get involved in student life. The team are also here to offer advice and support on your studies and personal issues.",
+        "content": "You automatically become a member of the Students' Union UUSU from your first day. They are your voice in the university and here to represent and support you. The calendar is packed with events, activities, clubs and societies so you can really get involved in student life. The team are also here to offer advice and support on your studies and personal issues.",
         "link": "uusu.org",
         "activeLink": true
     },
@@ -144,7 +144,7 @@
         "id": "bus-stop",
         "title": "Transport",
         "image": null,
-        "content": "For students aged 16-23, a Translink yLink card provides 1/3 off on all bus and rail services within Northern Ireland. You can choose to travel to the campus by bus or train. If you’d rather cycle, you can securely store your bike.",
+        "content": "For students aged 16-23, a Translink yLink card provides 1/3 off on all bus and rail services within Northern Ireland. You can choose to travel to the campus by bus or train. If you'd rather cycle, you can securely store your bike.",
         "link": "translink.co.uk",
         "activeLink": true
     },
@@ -152,7 +152,7 @@
         "id": "cycle-path",
         "title": "Transport",
         "image": null,
-        "content": "For students aged 16-23, a Translink yLink card provides 1/3 off on all bus and rail services within Northern Ireland. You can choose to travel to the campus by bus or train. If you’d rather cycle, you can securely store your bike.",
+        "content": "For students aged 16-23, a Translink yLink card provides 1/3 off on all bus and rail services within Northern Ireland. You can choose to travel to the campus by bus or train. If you'd rather cycle, you can securely store your bike.",
         "link": "translink.co.uk",
         "activeLink": true
     },
@@ -160,7 +160,7 @@
         "id": "train-station",
         "title": "Transport",
         "image": null,
-        "content": "For students aged 16-23, a Translink yLink card provides 1/3 off on all bus and rail services within Northern Ireland. You can choose to travel to the campus by bus or train. If you’d rather cycle, you can securely store your bike.",
+        "content": "For students aged 16-23, a Translink yLink card provides 1/3 off on all bus and rail services within Northern Ireland. You can choose to travel to the campus by bus or train. If you'd rather cycle, you can securely store your bike.",
         "link": "translink.co.uk",
         "activeLink": true
     },
@@ -187,5 +187,21 @@
         "content": null,
         "link": null,
         "activeLink": false
+    },
+    {
+        "id": "digital-services",
+        "title": "Digital Services",
+        "image": null,
+        "content": "This is your go-to team for IT support both on-campus and from home. Our online 'Student Experience' page provides information on all our services including a 'Getting Started' area with guidance on the technology you need for online learning, how to access your email, the Student Portal, managing your password securely, and most importantly...how to get help!",
+        "link": "ulster.ac.uk/ds/students",
+        "activeLink": true
+    },
+    {
+        "id": "safe-zone",
+        "title": "Safe Zone",
+        "image": null,
+        "content": "Peace of mind in your pocket - feel safe on campus 24/7 with our free app. By installing the SafeZone app and registering as a user, you will also receive any critical security notifications from the University. We encourage all students to download this app to stay up to date whilst on campus.",
+        "link": "ulster.ac.uk/safezone",
+        "activeLink": true
     }
 ]
