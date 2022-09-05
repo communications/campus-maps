@@ -165,6 +165,7 @@ body {
                 fill: #dd6ba9 !important;
             }
 
+            .map--key-item:focus>.ellipse,
             .map--key-item:hover>.ellipse {
                 stroke: #336ef9;
             }
