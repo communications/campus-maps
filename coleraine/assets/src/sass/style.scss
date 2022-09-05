@@ -83,6 +83,7 @@ body {
             transition: fill 0.2s ease;
         }
 
+        .area-indicator ellipse,
         .area-indicator circle,
         .background {
             fill: #dd6ba9;
@@ -96,22 +97,8 @@ body {
         }
 
         &.area--selected .area-indicator circle,
-        &.area--selected .background,
-        &:hover .background,
-        g:focus .background,
-        &:hover .area-indicator circle,
-        g:focus .area-indicator circle {
+        &.area--selected .background {
             fill: #336ef9;
-            transition: fill 0.2s ease;
-        }
-
-        g:focus {
-            outline: none;
-        }
-
-        &:hover .area-indicator g,
-        g:focus .area-indicator g {
-            stroke: #336ef9;
             transition: fill 0.2s ease;
         }
 
@@ -129,16 +116,54 @@ body {
             stroke: #4f69aa !important;
         }
 
+        &.map-area--block-name .map--key-item>path.inner-character,
         &.map-area--building-name .map--key-item>path.inner-character,
         &.map-area--parking .map--key-item>path.inner-character {
             fill: #FFF !important;
         }
 
+        &.map-area--block-name .map--key-item>path.icon-background,
         &.map-area--building-name .map--key-item>path.icon-background {
             fill: #939190 !important;
         }
 
+        g:focus {
+            outline: none;
+        }
+
         &:not(.is-disabled) {
+
+            &:hover .area-indicator g,
+            g:focus .area-indicator g {
+                stroke: #336ef9;
+                transition: fill 0.2s ease;
+            }
+
+            &:hover .background,
+            g:focus .background,
+            &:hover .area-indicator circle,
+            g:focus .area-indicator circle {
+                fill: #336ef9;
+                transition: fill 0.2s ease;
+            }
+
+            .map--key-item>.ellipse {
+                stroke: #dd6ba9;
+            }
+
+            .map--key-item>path:not(.background-area) {
+                fill: #dd6ba9;
+            }
+
+            &.map-area--parking .map--key-item>.ellipse {
+                fill: #dd6ba9 !important;
+                stroke: #dd6ba9 !important;
+            }
+
+            &.map-area--block-name .map--key-item>path.icon-background,
+            &.map-area--building-name .map--key-item>path.icon-background {
+                fill: #dd6ba9 !important;
+            }
 
             .map--key-item:hover>.ellipse {
                 stroke: #336ef9;
@@ -155,6 +180,8 @@ body {
                 stroke: #336ef9 !important;
             }
 
+            &.map-area--block-name .map--key-item:focus>path.icon-background,
+            &.map-area--block-name .map--key-item:hover>path.icon-background,
             &.map-area--building-name .map--key-item:focus>path.icon-background,
             &.map-area--building-name .map--key-item:hover>path.icon-background {
                 fill: #336ef9 !important;
