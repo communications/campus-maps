@@ -8,15 +8,15 @@
         "id": "academy",
         "title": "Academy",
         "image": null,
-        "content": null,
-        "link": null,
-        "activeLink": false
+        "content": "Exquisite food created by Ulster's talented students who are committed to careers in hospitality, as chefs, entrepreneurs and future leaders.",
+        "link": "academyrestaurant.ac.uk",
+        "activeLink": true
     },
     {
         "id": "main-reception",
-        "title": "Student Services HQ",
+        "title": "Main Reception",
         "image": "./assets/src/img/reception.png",
-        "content": "Here to help you manage your student academic record, offer support with student finance queries and completion of forms requiring official UU approval. The team are available via telephone, email, live chat and on campus",
+        "content": "Visit the main reception to get your student card renewed or if you have a general enquiry about the campus.",
         "link": "ulster.ac.uk/student",
         "activeLink": true
     },
@@ -24,7 +24,7 @@
         "id": "uusu-bar",
         "title": "UUSU Bar",
         "image": "./assets/src/img/uusu.png",
-        "content": "You automatically become a member of the Students' Union UUSU from your first day. They are your voice in the university and here to represent and support you. The calendar is packed with events, activities, clubs and societies so you can really get involved in student life. The team are also here to offer advice and support on your studies and personal issues.",
+        "content": "<strong>CQ Social</strong> - Food & Bar: Mon - Fri 10am - 10pm, Weekends 11:30am - 9pm Keep up to date with what's happening uusu.org",
         "link": "uusu.org",
         "activeLink": true
     },
@@ -32,17 +32,17 @@
         "id": "block-bd",
         "title": "Block BD",
         "image": "./assets/src/img/block-bd.png",
-        "content": null,
+        "content": "BD-02-011",
         "link": null,
-        "activeLink": false
+        "activeLink": true
     },
     {
         "id": "block-bc",
         "title": "Block BC",
         "image": "./assets/src/img/block-bc.png",
-        "content": null,
-        "link": null,
-        "activeLink": false
+        "content": "Employability and Careers are here to help students develop the right skills and confidence for the future. They offer the Ulster EDGE Award, an award to complete alongside a degree that helps build  skills through different activities.  They also provide lots of support to help students gain the relevant work experience and placements. This includes events on campus and virtually through the Handshake platform that help connect with employers and opportunities.",
+        "link": "ulster.ac.uk/employability",
+        "activeLink": true
     },
     {
         "id": "block-bb",
@@ -56,9 +56,9 @@
         "id": "frederick-street-car-park",
         "title": "Frederick Street Car Park",
         "image": null,
-        "content": null,
+        "content": "<ul><li>350 Permit Access only car parking spaces with 18 designated as accessible spaces</li><li>7 spaces equipped with Electric Vehicle charging points</li><li>10 motorcycle spaces</li><li>193 secure bicycle storage racks</li></ul>",
         "link": null,
-        "activeLink": false
+        "activeLink": true
     },
     {
         "id": "birley-building",
@@ -88,7 +88,7 @@
         "id": "the-shop-bsoa",
         "title": "The Shop BSOA",
         "image": null,
-        "content": null,
+        "content": "Indulge in one-off creative pieces lovingly made by UU students",
         "link": null,
         "activeLink": false
     },
@@ -128,7 +128,7 @@
         "id": "changing-places",
         "title": "Changing Places/Toilets",
         "image": null,
-        "content": null,
+        "content": "Changing Places toilets are larger accessible toilets for severely disabled people, with equipment such as hoists, curtains, adult-sized changing benches and space for carers and can found on each campus.",
         "link": null,
         "activeLink": false
     },
@@ -136,31 +136,31 @@
         "id": "food-outlet",
         "title": "Food Outlet",
         "image": null,
-        "content": "The campus has lots of value for money places to get a coffee or lunch:<ul><li>York Street Coffee (Block BD Level 0)</li><li>Paul & Henry (Block BB Level 2)</li><li>Street Beats (Block BC Level 0)</li></ul>Discover more food outlets across the campus!",
-        "link": null,
+        "content": "<ul><li><strong>The Junction Food Hall</strong> Block BC Ground Floor</li><li><strong>Streetbeats</strong> Block BC Ground Floor</li><li><strong>AromaRoma</strong> Block BC Ground Floor</li><li><strong>Cathedral Quarter Social @UUSU Belfast</strong> Block BC Ground Floor</li><li><strong>The Point</strong> Block BC Level 03</li><li><strong>VERT</strong> Block BC Level 06</li><li><strong>York Street Coffee</strong> Block BD Ground Floor</li><li><strong>Paul & Henry</strong> Block BB Level 02 (At Link Bridge)</li><li><strong>HJEM</strong> Block BA Ground Floor</li></ul>",
+        "link": "ulster.ac.uk/catering",
         "activeLink": true
     },
     {
         "id": "lecture-theatre",
         "title": "Lecture Theatre",
         "image": null,
-        "content": null,
+        "content": "<ul><li>Conor Lecture Theatre Block BA Level 1</li><li>Block BC Level 02</li><li>Block BC Level 01</li><li>Orpheus Lecture Theatre Block BD Level 2</li><li>Metropole Lecture Theatre Block BD Level 2</li></ul>",
         "link": null,
-        "activeLink": false
+        "activeLink": true
     },
     {
         "id": "electric-charging-point",
         "title": "Electric Charging Point",
         "image": null,
-        "content": null,
+        "content": "In Fredrick Street carpark there are 7 spaces equipped with Electric Vehicle charging points",
         "link": null,
-        "activeLink": false
+        "activeLink": true
     },
     {
         "id": "pay-point",
         "title": "Pay Point",
         "image": null,
-        "content": null,
+        "content": "You can pay for parking via card and cash at the dedicated pay point machines",
         "link": null,
         "activeLink": false
     },
@@ -168,7 +168,7 @@
         "id": "bus-stop",
         "title": "Transport",
         "image": null,
-        "content": "For students aged 16-23, a Translink yLink card provides 1/3 off on all bus and rail services within Northern Ireland. You can choose to travel to the campus by bus or train. If you'd rather cycle, you can securely store your bike.",
+        "content": "To plan your journey to campus via bus or rail",
         "link": "translink.co.uk",
         "activeLink": true
     },
@@ -176,7 +176,7 @@
         "id": "cycle-hub",
         "title": "Transport",
         "image": null,
-        "content": "For students aged 16-23, a Translink yLink card provides 1/3 off on all bus and rail services within Northern Ireland. You can choose to travel to the campus by bus or train. If you'd rather cycle, you can securely store your bike.",
+        "content": "<p>Curtis Street Carpark has 36 cycle racks (including secure lockers to store your cycling gear, activated by your student or staff ID Card)</p><p>Frederick Street Car Park has 193 cycle racks (secure lockers installed Autumn 2022</p>",
         "link": "translink.co.uk",
         "activeLink": true
     },
@@ -184,7 +184,7 @@
         "id": "block-name",
         "title": "Block Name",
         "image": null,
-        "content": null,
+        "content": "Room names are stated as block - floor - room number ie BA-03-10",
         "link": null,
         "activeLink": false
     },
@@ -192,7 +192,7 @@
         "id": "building-entrance",
         "title": "Building Entrance",
         "image": null,
-        "content": null,
+        "content": "Access each block via any of the entrances",
         "link": null,
         "activeLink": false
     }
