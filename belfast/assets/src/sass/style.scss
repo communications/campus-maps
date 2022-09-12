@@ -160,8 +160,16 @@ body {
                 stroke: #4f69aa;
             }
 
+            .map--key-item>.underline--pink {
+                stroke: #dd6ba9;
+            }
+
             .map--key-item>path:not(.background-area) {
                 fill: #4f69aa;
+            }
+
+            .map--key-item>path.text--pink {
+                fill: #dd6ba9;
             }
 
             &.map-area--parking .map--key-item>.ellipse {
@@ -181,9 +189,19 @@ body {
                 stroke: #dd6ba9;
             }
 
+            .map--key-item:focus>.underline--pink,
+            .map--key-item:hover>.underline--pink {
+                stroke: #336ef9;
+            }
+
             .map--key-item:focus>path:not(.background-area),
             .map--key-item:hover>path:not(.background-area) {
                 fill: #dd6ba9;
+            }
+
+            .map--key-item:focus>path.text--pink,
+            .map--key-item:hover>path.text--pink {
+                fill: #336ef9;
             }
 
             &.map-area--parking .map--key-item:focus>.ellipse,

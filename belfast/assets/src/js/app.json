@@ -130,7 +130,7 @@
         "image": null,
         "content": "Changing Places toilets are larger accessible toilets for severely disabled people, with equipment such as hoists, curtains, adult-sized changing benches and space for carers and can found on each campus.",
         "link": null,
-        "activeLink": false
+        "activeLink": true
     },
     {
         "id": "food-outlet",
@@ -162,7 +162,7 @@
         "image": null,
         "content": "You can pay for parking via card and cash at the dedicated pay point machines",
         "link": null,
-        "activeLink": false
+        "activeLink": true
     },
     {
         "id": "bus-stop",
@@ -186,7 +186,7 @@
         "image": null,
         "content": "Room names are stated as block - floor - room number ie BA-03-10",
         "link": null,
-        "activeLink": false
+        "activeLink": true
     },
     {
         "id": "building-entrance",
@@ -194,6 +194,174 @@
         "image": null,
         "content": "Access each block via any of the entrances",
         "link": null,
-        "activeLink": false
+        "activeLink": true
+    },
+    {
+        "id": "level0--employability-careers",
+        "title": "Employability & Careers",
+        "image": null,
+        "content": "Employability and Careers are here to help students develop the right skills and confidence for the future. They offer the Ulster EDGE Award, an award to complete alongside a degree that helps build  skills through different activities. They also provide lots of support to help students gain the relevant work experience and placements. This includes events on campus and virtually through the Handshake platform that help connect with employers and opportunities.",
+        "link": "www.ulster.ac.uk/employability",
+        "activeLink": true
+    },
+    {
+        "id": "level0--art-gallery",
+        "title": "Art Gallery",
+        "image": null,
+        "content": null,
+        "link": "www.ulster.ac.uk/ulsterpresents/whats-on",
+        "activeLink": true
+    },
+    {
+        "id": "level0--uusu-bar",
+        "title": "UUSU Bar",
+        "image": null,
+        "content": "<strong>CQ Social -</strong> Food & Bar: Mon - Fri 10am - 10pm, Weekends 11:30am - 9pm",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level0--lecture-theatres",
+        "title": "Lecture Theatres",
+        "image": null,
+        "content": "Block BC Level 02 - Block BC Level 01",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level0--food-outlets",
+        "title": "Food Outlets",
+        "image": null,
+        "content": "<ul><li>The Junction Food Hall</li><li>Streetbeats</li><li>AromaRoma</li><li>Cathedral Quarter Social @UUSU</li></ul>",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level1--uusu",
+        "title": "UUSU",
+        "image": null,
+        "content": "You automatically become a member of the Students' Union UUSU from your first day. They are your voice in the university and here to represent and support you. The calendar is packed with events, activities, clubs and societies so you can really get involved in student life. The team are also here to offer advice and support on your studies and personal issues",
+        "link": "uusu.org",
+        "activeLink": true
+    },
+    {
+        "id": "level1--lecture-theatres",
+        "title": "Lecture Theatres",
+        "image": null,
+        "content": "Block BC Level 01",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level1--library",
+        "title": "Library",
+        "image": null,
+        "content": "Your on-campus library provides everything you need to support your learning in one central location with resources, study spaces, specialist help and computing facilities. Check out the online ‘Library Help’ service to get in touch with the library, borrow books and check study space availability. You can also access an extensive range of electronic learning materials at any time.",
+        "link": "ulster.ac.uk/library",
+        "activeLink": true
+    },
+    {
+        "id": "level2--lecture-theatres",
+        "title": "Lecture Theatres",
+        "image": null,
+        "content": "Block BC Level 02",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level2--student-wellbeing",
+        "title": "Student Wellbeing",
+        "image": null,
+        "content": "The Student Wellbeing team offers advice and support on your general wellbeing, money matters, counselling, and disabilities, including mental health conditions, dyslexia and ASD. Depending on your needs, speak to the team in person, via telephone or online.",
+        "link": "ulster.ac.uk/wellbeing",
+        "activeLink": true
+    },
+    {
+        "id": "level2--library",
+        "title": "Library",
+        "image": null,
+        "content": "Your on-campus library provides everything you need to support your learning in one central location with resources, study spaces, specialist help and computing facilities. Check out the online 'Library Help' service to get in touch with the library, borrow books and check study space availability. You can also access an extensive range of electronic learning materials at any time.",
+        "link": "ulster.ac.uk/library",
+        "activeLink": true
+    },
+    {
+        "id": "level2--gym",
+        "title": "Lecture Theatres",
+        "image": null,
+        "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates",
+        "link": "ulster.ac.uk/sport",
+        "activeLink": true
+    },
+    {
+        "id": "level2--student-services-hq",
+        "title": "Student Services HQ",
+        "image": null,
+        "content": "Here to help you manage your student academic record, offer support with student finance queries and completion of forms requiring official UU approval. The team are available via telephone, email, live chat and on campus.",
+        "link": "ulster.ac.uk/student",
+        "activeLink": true
+    },
+    {
+        "id": "level2--internation-student-advisory",
+        "title": "International Student Advisory Service",
+        "image": null,
+        "content": "The dedicated team for international students providing support, information and advice.",
+        "link": "ulster.ac.uk/global/isas",
+        "activeLink": true
+    },
+    {
+        "id": "level2--link-bridge",
+        "title": "Link bridge to BA,BB Access to BD Building",
+        "image": null,
+        "content": "All our blocks can be accessed to each other internally",
+        "link": "uusu.org",
+        "activeLink": true
+    },
+    {
+        "id": "level3--teaching-spaces",
+        "title": "Teaching Spaces",
+        "image": null,
+        "content": "Faculty of Computing, Engineering and the Built Environment Level 3,4,5, Faculty of Life and Health Sciences Level 4, Ulster University Business School Level 9, 10",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level3--labs",
+        "title": "Labs",
+        "image": null,
+        "content": "Faculty of Computing, Engineering and the Built Environment Level 3,5, Faculty of Life and Health Sciences Level 4",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level3--social-learning-hubs",
+        "title": "Social Learning hubs",
+        "image": null,
+        "content": "Level 3,4,5,6,7,8,9",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level3--faculty-offices",
+        "title": "Faculty Offices",
+        "image": null,
+        "content": "<ul><li>Faculty of Computing, Engineering and the Built Environment Level 4,5</li><li>Faculty of Life and Health Sciences Level 4</li><li>Faculty of Arts, Humanities and Social Sciences Level 6,7</li><li>Ulster University Business School Level 8, 9, 10</li></ul>",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level3--food-outlets",
+        "title": "Food Outlets",
+        "image": null,
+        "content": "<ul><li>The Point Block BC Level 03</li><li>VERT Block BC Level 06</li></ul>",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "level3--phd-researchers-space",
+        "title": "PhD Researchers Space",
+        "image": null,
+        "content": "Level 4,5,8,9",
+        "link": null,
+        "activeLink": true
     }
 ]
