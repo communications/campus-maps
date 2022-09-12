@@ -24,7 +24,7 @@
         "id": "uusu-bar",
         "title": "UUSU Bar",
         "image": "./assets/src/img/uusu.png",
-        "content": "<strong>CQ Social</strong> - Food & Bar: Mon - Fri 10am - 10pm, Weekends 11:30am - 9pm Keep up to date with what's happening uusu.org",
+        "content": "<strong>CQ Social</strong> - Food & Bar: Mon - Fri 10am - 10pm, Weekends 11:30am - 9pm. Keep up to date with what's happening uusu.org",
         "link": "uusu.org",
         "activeLink": true
     },
@@ -78,9 +78,9 @@
     },
     {
         "id": "fitness-studio",
-        "title": "UU Sport",
+        "title": "Fitness Studio & Strength Zone",
         "image": null,
-        "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates",
+        "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates.",
         "link": "ulster.ac.uk/sport",
         "activeLink": true
     },
@@ -88,9 +88,9 @@
         "id": "the-shop-bsoa",
         "title": "The Shop BSOA",
         "image": null,
-        "content": "Indulge in one-off creative pieces lovingly made by UU students",
+        "content": "Indulge in one-off creative pieces lovingly made by UU students.",
         "link": null,
-        "activeLink": false
+        "activeLink": true
     },
     {
         "id": "belfast-cathedral",
@@ -128,7 +128,7 @@
         "id": "changing-places",
         "title": "Changing Places/Toilets",
         "image": null,
-        "content": "Changing Places toilets are larger accessible toilets for severely disabled people, with equipment such as hoists, curtains, adult-sized changing benches and space for carers and can found on each campus.",
+        "content": "Changing Places toilets are larger accessible toilets for severely disabled people, with equipment such as hoists, curtains, adult-sized changing benches and space for carers and can found on each campus. <ul><li><strong>Block BA Ground Floor</strong> BA-00-A3-005</li><li><strong>Block BC:</strong> BC-03-108</li><li><strong>Block BD:</strong> BD-02-011</li></ul>",
         "link": null,
         "activeLink": true
     },
@@ -152,7 +152,7 @@
         "id": "electric-charging-point",
         "title": "Electric Charging Point",
         "image": null,
-        "content": "In Fredrick Street carpark there are 7 spaces equipped with Electric Vehicle charging points",
+        "content": "In Fredrick Street carpark there are 7 spaces equipped with Electric Vehicle charging points.",
         "link": null,
         "activeLink": true
     },
@@ -160,7 +160,7 @@
         "id": "pay-point",
         "title": "Pay Point",
         "image": null,
-        "content": "You can pay for parking via card and cash at the dedicated pay point machines",
+        "content": "You can pay for parking via card and cash at the dedicated pay point machines.",
         "link": null,
         "activeLink": true
     },
@@ -168,7 +168,7 @@
         "id": "bus-stop",
         "title": "Transport",
         "image": null,
-        "content": "To plan your journey to campus via bus or rail",
+        "content": "To plan your journey to campus via bus or rail, visit:",
         "link": "translink.co.uk",
         "activeLink": true
     },
@@ -176,7 +176,7 @@
         "id": "cycle-hub",
         "title": "Transport",
         "image": null,
-        "content": "<p>Curtis Street Carpark has 36 cycle racks (including secure lockers to store your cycling gear, activated by your student or staff ID Card)</p><p>Frederick Street Car Park has 193 cycle racks (secure lockers installed Autumn 2022</p>",
+        "content": "<p>Curtis Street Carpark has 36 cycle racks (including secure lockers to store your cycling gear, activated by your student or staff ID Card).</p><p>Frederick Street Car Park has 193 cycle racks (secure lockers installed Autumn 2022).</p>",
         "link": "translink.co.uk",
         "activeLink": true
     },
@@ -184,7 +184,7 @@
         "id": "block-name",
         "title": "Block Name",
         "image": null,
-        "content": "Room names are stated as block - floor - room number ie BA-03-10",
+        "content": "Room names are stated as block - floor - room number ie BA-03-10.",
         "link": null,
         "activeLink": true
     },
@@ -192,7 +192,7 @@
         "id": "building-entrance",
         "title": "Building Entrance",
         "image": null,
-        "content": "Access each block via any of the entrances",
+        "content": "Access each block via any of the entrances.",
         "link": null,
         "activeLink": true
     },
@@ -216,7 +216,7 @@
         "id": "level0--uusu-bar",
         "title": "UUSU Bar",
         "image": null,
-        "content": "<strong>CQ Social -</strong> Food & Bar: Mon - Fri 10am - 10pm, Weekends 11:30am - 9pm",
+        "content": "<strong>CQ Social -</strong> Food & Bar: Mon - Fri 10am - 10pm, Weekends 11:30am - 9pm.",
         "link": null,
         "activeLink": true
     },
@@ -240,7 +240,7 @@
         "id": "level1--uusu",
         "title": "UUSU",
         "image": null,
-        "content": "You automatically become a member of the Students' Union UUSU from your first day. They are your voice in the university and here to represent and support you. The calendar is packed with events, activities, clubs and societies so you can really get involved in student life. The team are also here to offer advice and support on your studies and personal issues",
+        "content": "You automatically become a member of the Students' Union UUSU from your first day. They are your voice in the university and here to represent and support you. The calendar is packed with events, activities, clubs and societies so you can really get involved in student life. The team are also here to offer advice and support on your studies and personal issues.",
         "link": "uusu.org",
         "activeLink": true
     },
@@ -286,9 +286,9 @@
     },
     {
         "id": "level2--gym",
-        "title": "Lecture Theatres",
+        "title": "Gym",
         "image": null,
-        "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates",
+        "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates.",
         "link": "ulster.ac.uk/sport",
         "activeLink": true
     },
@@ -320,7 +320,7 @@
         "id": "level3--teaching-spaces",
         "title": "Teaching Spaces",
         "image": null,
-        "content": "Faculty of Computing, Engineering and the Built Environment Level 3,4,5, Faculty of Life and Health Sciences Level 4, Ulster University Business School Level 9, 10",
+        "content": "<ul><li>Faculty of Computing Engineering and the Built Environment Level 3,4,5</li><li>Faculty of Life and Health Sciences Level 4</li><li>Ulster University Business School Level 9, 10</li></ul>",
         "link": null,
         "activeLink": true
     },
@@ -328,7 +328,7 @@
         "id": "level3--labs",
         "title": "Labs",
         "image": null,
-        "content": "Faculty of Computing, Engineering and the Built Environment Level 3,5, Faculty of Life and Health Sciences Level 4",
+        "content": "<ul><li>Faculty of Computing Engineering and the Built Environment Level 3,5</li><li>Faculty of Life and Health Sciences Level 4</li></ul>",
         "link": null,
         "activeLink": true
     },
@@ -362,6 +362,30 @@
         "image": null,
         "content": "Level 4,5,8,9",
         "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "student-card",
+        "title": "Student Card",
+        "image": null,
+        "content": "Your student card is your key for gaining access around campus, using library services, and unlocking some amazing student offers.",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "hydration-stations",
+        "title": "Hydration Stations",
+        "image": null,
+        "content": "Don't forget to bring your water bottle with you - you'll find refill stations across the campus.",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "student-guide",
+        "title": "Student Guide",
+        "image": null,
+        "content": "Your online go-to for everything you need to know about life at UU.",
+        "link": "ulster.ac.uk/student",
         "activeLink": true
     }
 ]

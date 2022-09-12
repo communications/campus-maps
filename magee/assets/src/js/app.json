@@ -16,7 +16,7 @@
         "id": "library",
         "title": "Library",
         "image": null,
-        "content": "Your on-campus library provides everything you need to support your learning in one central location with resources, study spaces, specialist help and computing facilities. Check out the online 'Library Help' service to get in touch with the library, borrow books and check study space availability. You can also access an extensive range of electronic learning materials at any time",
+        "content": "Your on-campus library provides everything you need to support your learning in one central location with resources, study spaces, specialist help and computing facilities. Check out the online 'Library Help' service to get in touch with the library, borrow books and check study space availability. You can also access an extensive range of electronic learning materials at any time.",
         "link": "ulster.ac.uk/library",
         "activeLink": true
     },
@@ -32,7 +32,7 @@
         "id": "martha-magee-building",
         "title": "Martha Magee Building",
         "image": "./assets/src/img/martha-magee-building.png",
-        "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you to settle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you",
+        "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you to settle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you.",
         "link": "ulster.ac.uk/accommodation",
         "activeLink": true
     },
@@ -112,7 +112,7 @@
         "id": "lecture-theatre",
         "title": "Lecture Theatre",
         "image": null,
-        "content": "Lecture Theatres are located in the MD Building and the MU Building",
+        "content": "Lecture Theatres are located in the MD Building and the MU Building.",
         "link": null,
         "activeLink": true
     },
@@ -128,7 +128,7 @@
         "id": "pay-point",
         "title": "Pay Point",
         "image": null,
-        "content": "You can pay for parking via card and cash at the dedicated pay point machines",
+        "content": "You can pay for parking via card and cash at the dedicated pay point machines.",
         "link": null,
         "activeLink": true
     },
@@ -152,15 +152,15 @@
         "id": "bus-stop",
         "title": "Bus Stop",
         "image": null,
-        "content": "To plan your journey to campus via bus or rail, visit translink.co.uk ",
-        "link": null,
+        "content": "To plan your journey to campus via bus or rail, visit:",
+        "link": "trainlink.co.uk",
         "activeLink": true
     },
     {
         "id": "cycle-path",
         "title": "Cycle Path",
         "image": null,
-        "content": "Enjoy travelling to campus by bike and take advantage of safe and secure bike storage",
+        "content": "Enjoy travelling to campus by bike and take advantage of safe and secure bike storage.",
         "link": null,
         "activeLink": true
     },
@@ -176,7 +176,7 @@
         "id": "building-name",
         "title": "Building Name",
         "image": null,
-        "content": "Each building is identified by a letter ie Student Wellbeing is situated in the MG Building",
+        "content": "Each building is identified by a letter ie Student Wellbeing is situated in the MG Building.",
         "link": null,
         "activeLink": true
     },
@@ -194,6 +194,30 @@
         "image": null,
         "content": "Peace of mind in your pocket - feel safe on campus 24/7 with our free app. By installing the SafeZone app and registering as a user, you will also receive any critical security notifications from the University. We encourage all students to download this app to stay up to date whilst on campus.",
         "link": "ulster.ac.uk/safezone",
+        "activeLink": true
+    },
+    {
+        "id": "student-card",
+        "title": "Student Card",
+        "image": null,
+        "content": "Your student card is your key for gaining access around campus, using library services, and unlocking some amazing student offers.",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "hydration-stations",
+        "title": "Hydration Stations",
+        "image": null,
+        "content": "Don't forget to bring your water bottle with you - you'll find refill stations across the campus.",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "student-guide",
+        "title": "Student Guide",
+        "image": null,
+        "content": "Your online go-to for everything you need to know about life at UU.",
+        "link": "ulster.ac.uk/student",
         "activeLink": true
     }
 ]

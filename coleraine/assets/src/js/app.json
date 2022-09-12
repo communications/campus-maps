@@ -72,7 +72,7 @@
         "id": "pharmacy-diabetes",
         "title": "Pharmacy & Diabetes",
         "image": "./assets/src/img/pharmacy-diabetes.png",
-        "content": "Y Block is home to Health Science students and offers hands-on practical learning with facilities including a mock up Pharmacy",
+        "content": "Y Block is home to Health Science students and offers hands-on practical learning with facilities including a mock up Pharmacy.",
         "link": null,
         "activeLink": true
     },
@@ -96,7 +96,7 @@
         "id": "changing-places",
         "title": "Changing Places/Toilets",
         "image": null,
-        "content": "Changing Places toilets are larger accessible toilets for severely disabled people, with equipment such as hoists, curtains, adult-sized changing benches and space for carers and can found on each campus",
+        "content": "Changing Places toilets are larger accessible toilets for severely disabled people, with equipment such as hoists, curtains, adult-sized changing benches and space for carers and can found on each campus.",
         "link": null,
         "activeLink": true
     },
@@ -128,7 +128,7 @@
         "id": "pay-point",
         "title": "Pay Point",
         "image": null,
-        "content": "You can pay for parking via card and cash at the dedicated pay point machines",
+        "content": "You can pay for parking via card and cash at the dedicated pay point machines.",
         "link": null,
         "activeLink": true
     },
@@ -144,7 +144,7 @@
         "id": "bus-stop",
         "title": "Transport",
         "image": null,
-        "content": "To plan your journey to campus via bus or rail",
+        "content": "To plan your journey to campus via bus or rail.",
         "link": "translink.co.uk",
         "activeLink": true
     },
@@ -160,7 +160,7 @@
         "id": "train-station",
         "title": "Transport",
         "image": null,
-        "content": "To plan your journey to campus via bus or rail",
+        "content": "To plan your journey to campus via bus or rail.",
         "link": "translink.co.uk",
         "activeLink": true
     },
@@ -168,7 +168,7 @@
         "id": "tennis-court",
         "title": "Tennis Court",
         "image": null,
-        "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates",
+        "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates.",
         "link": "ulster.ac.uk/sport",
         "activeLink": true
     },
@@ -176,7 +176,7 @@
         "id": "parking",
         "title": "Parking",
         "image": null,
-        "content": "There is ample carparking available across the campus",
+        "content": "There is ample carparking available across the campus.",
         "link": null,
         "activeLink": true
     },
@@ -184,7 +184,7 @@
         "id": "building-name",
         "title": "Building Name",
         "image": null,
-        "content": "Each building/block is identified by a letter ie Student Wellbeing is situated in E block",
+        "content": "Each building/block is identified by a letter ie Student Wellbeing is situated in E block.",
         "link": null,
         "activeLink": true
     },
@@ -210,6 +210,30 @@
         "image": null,
         "content": "The campus has its own Woodland walk, perfect for a walk, run or just a place to relax from your studies.",
         "link": "ulster.ac.uk/campuses/coleraine",
+        "activeLink": true
+    },
+    {
+        "id": "student-card",
+        "title": "Student Card",
+        "image": null,
+        "content": "Your student card is your key for gaining access around campus, using library services, and unlocking some amazing student offers.",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "hydration-station",
+        "title": "Hydration Stations",
+        "image": null,
+        "content": "Don't forget to bring your water bottle with you - you'll find refill stations across the campus.",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "student-guide",
+        "title": "Student Guide",
+        "image": null,
+        "content": "Your online go-to for everything you need to know about life at UU.",
+        "link": "ulster.ac.uk/student",
         "activeLink": true
     }
 ]
