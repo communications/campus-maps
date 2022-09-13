@@ -102,6 +102,9 @@ body {
             transition: fill 0.2s ease;
         }
 
+        &:not(.map-area--hydration-stations) .map--key-item>.ellipse,
+        &:not(.map-area--student-card) .map--key-item>.ellipse,
+        &:not(.map-area--student-guide) .map--key-item>.ellipse,
         &:not(.map-area--parking) .map--key-item>.ellipse {
             stroke: #4f69aa;
             fill: none !important;
@@ -111,6 +114,9 @@ body {
             fill: #4f69aa;
         }
 
+        &.map-area--hydration-station .map--key-item>.ellipse,
+        &.map-area--student-card .map--key-item>.ellipse,
+        &.map-area--student-guide .map--key-item>.ellipse,
         &.map-area--parking .map--key-item>.ellipse {
             fill: #4f69aa !important;
             stroke: #4f69aa !important;
@@ -164,6 +170,35 @@ body {
                 fill: #4f69aa;
             }
 
+            .map--key-item>.underline--pink {
+                stroke: #dd6ba9;
+            }
+
+            .map--key-item>path:not(.background-area) {
+                fill: #4f69aa;
+            }
+
+            .map--key-item>path.text--pink {
+                fill: #dd6ba9;
+            }
+
+            .map--key-item:focus>.underline--pink,
+            .map--key-item:hover>.underline--pink {
+                stroke: #336ef9 !important;
+            }
+
+            .map--key-item:focus>path.text--pink,
+            .map--key-item:hover>path.text--pink {
+                fill: #336ef9 !important;
+            }
+
+            .map--key-item>.icon {
+                fill: #FFF !important;
+            }
+
+            &.map-area--hydration-station .map--key-item>.ellipse,
+            &.map-area--student-card .map--key-item>.ellipse,
+            &.map-area--student-guide .map--key-item>.ellipse,
             &.map-area--parking .map--key-item>.ellipse {
                 fill: #4f69aa !important;
                 stroke: #4f69aa !important;
@@ -171,7 +206,7 @@ body {
 
             &.map-area--block-name .map--key-item>path.icon-background,
             &.map-area--building-name .map--key-item>path.icon-background {
-                fill: #4f69aa !important;
+                fill: #939190 !important;
             }
 
             .map--key-item:focus>.underline,
@@ -186,6 +221,12 @@ body {
                 fill: #dd6ba9;
             }
 
+            &.map-area--hydration-station .map--key-item:focus>.ellipse,
+            &.map-area--hydration-station .map--key-item:hover>.ellipse,
+            &.map-area--student-card .map--key-item:focus>.ellipse,
+            &.map-area--student-card .map--key-item:hover>.ellipse,
+            &.map-area--student-guide .map--key-item:focus>.ellipse,
+            &.map-area--student-guide .map--key-item:hover>.ellipse,
             &.map-area--parking .map--key-item:focus>.ellipse,
             &.map-area--parking .map--key-item:hover>.ellipse {
                 fill: #dd6ba9 !important;
