@@ -5,19 +5,51 @@
         "image": "./assets/src/img/border.png"
     },
     {
-        "id": "student-accommodation",
-        "title": "Accommodation",
-        "image": "./assets/src/img/student-accommodation.png",
+        "id": "mu-building",
+        "title": "MU Building",
+        "image": "./assets/src/img/mu-building.png",
+        "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you tosettle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you.",
+        "link": "ulster.ac.uk/accommodation",
+        "activeLink": true
+    },
+    {
+        "id": "library",
+        "title": "Library",
+        "image": null,
+        "content": "Your on-campus library provides everything you need to support your learning in one central location with resources, study spaces, specialist help and computing facilities. Check out the online 'Library Help' service to get in touch with the library, borrow books and check study space availability. You can also access an extensive range of electronic learning materials at any time.",
+        "link": "ulster.ac.uk/library",
+        "activeLink": true
+    },
+    {
+        "id": "student-admin",
+        "title": "Student Admin",
+        "image": null,
+        "content": "Here to help you manage your student academic record, offer support with student finance queries and completion of forms requiring official UU approval. The team are available via telephone, email, live chat and on campus.",
+        "link": "ulster.ac.uk/student",
+        "activeLink": true
+    },
+    {
+        "id": "martha-magee-building",
+        "title": "Martha Magee Building",
+        "image": "./assets/src/img/martha-magee-building.png",
         "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you to settle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you.",
         "link": "ulster.ac.uk/accommodation",
         "activeLink": true
     },
     {
         "id": "sports-centre",
-        "title": "UU Sport",
+        "title": "Sports Centre",
         "image": "./assets/src/img/sports-centre.png",
         "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates.",
         "link": "ulster.ac.uk/sport",
+        "activeLink": true
+    },
+    {
+        "id": "main-reception",
+        "title": "Main Reception",
+        "image": null,
+        "content": "<p>Visit the main reception to get your student card renewed or if you have a general enquiry about the campus.</p><p>Employability and Careers are here to help students develop the right skills and confidence for the future. They offer the Ulster EDGE Award, an award to complete alongside a degree that helps build  skills through different activities. They also provide lots of support to help students gain the relevant work experience and placements. This includes events on campus and virtually through the Handshake platform that help connect with employers and opportunities.</p>",
+        "link": "ulster.ac.uk/employability",
         "activeLink": true
     },
     {
@@ -37,30 +69,6 @@
         "activeLink": true
     },
     {
-        "id": "main-entrance",
-        "title": "Student Admin/Registry",
-        "image": "./assets/src/img/reception.png",
-        "content": "Visit the main reception to get your student card renewed or if you have a general enquiry about the campus.",
-        "link": null,
-        "activeLink": true
-    },
-    {
-        "id": "library",
-        "title": "Library",
-        "image": "./assets/src/img/library.png",
-        "content": "Your on-campus library provides everything you need to support your learning in one central location with resources, study spaces, specialist help and computing facilities. Check out the online 'Library Help' service to get in touch with the library, borrow books and check study space availability. You can also access an extensive range of electronic learning materials at any time.",
-        "link": "ulster.ac.uk/library",
-        "activeLink": true
-    },
-    {
-        "id": "diamond-hall-octagon-entrance",
-        "title": "Diamond Hall & Octagon Entrance",
-        "image": "./assets/src/img/diamond.png",
-        "content": "",
-        "link": null,
-        "activeLink": false
-    },
-    {
         "id": "employability-careers",
         "title": "Employability & Careers",
         "image": null,
@@ -69,27 +77,19 @@
         "activeLink": true
     },
     {
-        "id": "pharmacy-diabetes",
-        "title": "Pharmacy & Diabetes",
-        "image": "./assets/src/img/pharmacy-diabetes.png",
-        "content": "Y Block is home to Health Science students and offers hands-on practical learning with facilities including a mock up Pharmacy.",
-        "link": null,
+        "id": "sports-hall",
+        "title": "Sports Hall",
+        "image": "./assets/src/img/sports-hall.png",
+        "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates.",
+        "link": "ulster.ac.uk/sport",
         "activeLink": true
     },
     {
-        "id": "student-admin",
-        "title": "Student Admin",
-        "image": null,
-        "content": "Here to help you manage your student academic record, offer support with student finance queries and completion of forms requiring official UU approval. The team are available via telephone, email, live chat and on campus.",
-        "link": "ulster.ac.uk/student",
-        "activeLink": true
-    },
-    {
-        "id": "riverside-theatre",
-        "title": "Riverside Theatre",
-        "image": "./assets/src/img/riverside.png",
-        "content": "Our very own on-campus Riverside Theatre hosts amazing drama, comedy and music performances. You can also call into the Truva Riverside Café for a bite or drink.",
-        "link": "riversidetheatre.org.uk",
+        "id": "coppin-house",
+        "title": "Coppin House Student Accommodation",
+        "image": "./assets/src/img/coppin-house.png",
+        "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you to settle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you.",
+        "link": "ulster.ac.uk/accommodation",
         "activeLink": true
     },
     {
@@ -104,7 +104,7 @@
         "id": "food-outlet",
         "title": "Food Outlet",
         "image": null,
-        "content": "The campus has lots of value for money places to get a coffee or lunch: <ul><li>Flow & Co (Block E)</li><li>Brew Bridge (The Bridge)</li><li>Bann View Social @ UUSU Coleraine (Block E)</li><li>Truva (Riverside Theatre)</li><li>Little Coffee Co. (Block I)</li><li>Spar and Post Office (The Bridge)</li></ul>If you bring a packed lunch, the kitchenette (E019) has a microwave, toaster and a hot water boiler.",
+        "content": "The campus has lots of value for money places to get a coffee or lunch: <ul><li>Jitters Café Block MG</li><li>The Scullery Block MU</li><li>Rock Road Social @UUSU Magee featuring the Bunker Bar, Block MG</li><li>Day to Day Store Block MG</li></ul>If you bring a packed lunch, the kitchenette MG005 has a microwave, toaster and a hot water boiler.",
         "link": null,
         "activeLink": true
     },
@@ -112,15 +112,15 @@
         "id": "lecture-theatre",
         "title": "Lecture Theatre",
         "image": null,
-        "content": "Lecture Theatres are located in U Block and H Block.",
+        "content": "Lecture Theatres are located in the MD Building and the MU Building.",
         "link": null,
         "activeLink": true
     },
     {
-        "id": "electric-charging",
+        "id": "electric-charging-point",
         "title": "Electric Charging Point",
         "image": null,
-        "content": "Located in the main carpark at the front entrance of the campus.",
+        "content": "Located in the Martha Magee building carpark at the front entrance of the campus.",
         "link": null,
         "activeLink": true
     },
@@ -129,6 +129,14 @@
         "title": "Pay Point",
         "image": null,
         "content": "You can pay for parking via card and cash at the dedicated pay point machines.",
+        "link": null,
+        "activeLink": true
+    },
+    {
+        "id": "cycle-hub",
+        "title": "Cycle Hub",
+        "image": null,
+        "content": "Enjoy travelling to campus by bike and take advantage of safe and secure bike storage.",
         "link": null,
         "activeLink": true
     },
@@ -142,34 +150,18 @@
     },
     {
         "id": "bus-stop",
-        "title": "Transport",
+        "title": "Bus Stop",
         "image": null,
-        "content": "To plan your journey to campus via bus or rail.",
-        "link": "translink.co.uk",
+        "content": "To plan your journey to campus via bus or rail, visit:",
+        "link": "trainlink.co.uk",
         "activeLink": true
     },
     {
         "id": "cycle-path",
-        "title": "Transport",
+        "title": "Cycle Path",
         "image": null,
         "content": "Enjoy travelling to campus by bike and take advantage of safe and secure bike storage.",
         "link": null,
-        "activeLink": true
-    },
-    {
-        "id": "train-station",
-        "title": "Transport",
-        "image": null,
-        "content": "To plan your journey to campus via bus or rail.",
-        "link": "translink.co.uk",
-        "activeLink": true
-    },
-    {
-        "id": "tennis-court",
-        "title": "Tennis Court",
-        "image": null,
-        "content": "Sport is a big part of life at Ulster and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates.",
-        "link": "ulster.ac.uk/sport",
         "activeLink": true
     },
     {
@@ -184,7 +176,7 @@
         "id": "building-name",
         "title": "Building Name",
         "image": null,
-        "content": "Each building/block is identified by a letter ie Student Wellbeing is situated in E block.",
+        "content": "Each building is identified by a letter ie Student Wellbeing is situated in the MG Building.",
         "link": null,
         "activeLink": true
     },
@@ -202,14 +194,6 @@
         "image": null,
         "content": "Peace of mind in your pocket - feel safe on campus 24/7 with our free app. By installing the SafeZone app and registering as a user, you will also receive any critical security notifications from the University. We encourage all students to download this app to stay up to date whilst on campus.",
         "link": "ulster.ac.uk/safezone",
-        "activeLink": true
-    },
-    {
-        "id": "woodland-trail",
-        "title": "Woodland Trail",
-        "image": null,
-        "content": "The campus has its own Woodland walk, perfect for a walk, run or just a place to relax from your studies.",
-        "link": "ulster.ac.uk/campuses/coleraine",
         "activeLink": true
     },
     {

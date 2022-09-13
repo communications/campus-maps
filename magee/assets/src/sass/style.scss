@@ -170,7 +170,27 @@ body {
                 fill: #4f69aa;
             }
 
+            .map--key-item>.underline--pink {
+                stroke: #dd6ba9;
+            }
 
+            .map--key-item>path:not(.background-area) {
+                fill: #4f69aa;
+            }
+
+            .map--key-item>path.text--pink {
+                fill: #dd6ba9;
+            }
+
+            .map--key-item:focus>.underline--pink,
+            .map--key-item:hover>.underline--pink {
+                stroke: #336ef9 !important;
+            }
+
+            .map--key-item:focus>path.text--pink,
+            .map--key-item:hover>path.text--pink {
+                fill: #336ef9 !important;
+            }
 
             .map--key-item>.icon {
                 fill: #FFF !important;
