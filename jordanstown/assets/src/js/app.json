@@ -13,7 +13,7 @@
         "activeLink": true
     },
     {
-        "id": "tennis-basketball",
+        "id": "tennis-courts",
         "title": "Tennis and Basketball Courts",
         "image": "./assets/src/img/tennis-basketball.png",
         "content": "Grab your friends, book a court and take advantage of the outdoor courts.",
@@ -21,7 +21,7 @@
         "activeLink": true
     },
     {
-        "id": "nursing-health-services",
+        "id": "nursing-health-sciences",
         "title": "Nursing and Health Sciences",
         "image": null,
         "content": "Teaching rooms for Nursing and Health Sciences' students.",
@@ -101,7 +101,7 @@
         "activeLink": true
     },
     {
-        "id": "it-labs",
+        "id": "it-lab",
         "title": "IT Labs",
         "image": null,
         "content": "The lab is situated in the main building.",
@@ -189,7 +189,7 @@
         "activeLink": true
     },
     {
-        "id": "hydration-startions",
+        "id": "hydration-station",
         "title": "Hydration Stations",
         "image": null,
         "content": "Don't forget to bring your water bottle with you - you'll find refill stations across the Sports Village.",
