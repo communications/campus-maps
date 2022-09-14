@@ -164,6 +164,10 @@ body {
             opacity: 0;
         }
 
+        .map--key-item>path.text--pink {
+            fill: #dd6ba9;
+        }
+
         &:not(.is-disabled) {
 
             &:hover .area-indicator g,
@@ -192,8 +196,6 @@ body {
             .map--key-item>path:not(.background-area) {
                 fill: #4f69aa;
             }
-
-
 
             .map--key-item>.icon {
                 fill: #FFF !important;
