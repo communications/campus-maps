@@ -358,14 +358,23 @@ body {
 .campus-map-zoom {
 
     display: flex;
-    flex-direction: column;
-    align-items: flex-end;
     gap: 2px;
 
     position: absolute;
-    bottom: 2rem;
     right: 2rem;
     z-index: 1;
+
+    @media screen and (max-width: 800px) {
+        top: 2rem;
+        flex-direction: row;
+        align-items: flex-start;
+    }
+
+    @media screen and (min-width: 800px) {
+        bottom: 2rem;
+        flex-direction: column;
+        align-items: flex-end;
+    }
 
     button {
         border: none !important;
