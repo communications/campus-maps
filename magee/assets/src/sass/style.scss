@@ -240,6 +240,21 @@ body {
                 fill: #dd6ba9 !important;
             }
 
+            &.map-area--duncreggan #duncreggan:focus>path:not(.background-cover),
+            &.map-area--duncreggan #duncreggan:hover>path:not(.background-cover) {
+                fill: #dd6ba9 !important;
+            }
+
+            &.map-area--duncreggan #duncreggan>path.underline,
+            &.map-area--duncreggan #duncreggan>path.underline {
+                stroke: #908e8d !important;
+            }
+
+            &.map-area--duncreggan #duncreggan:focus>path.underline,
+            &.map-area--duncreggan #duncreggan:hover>path.underline {
+                stroke: #dd6ba9 !important;
+            }
+
         }
 
         &.is-disabled {
