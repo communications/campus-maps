@@ -5,6 +5,14 @@
         "image": "./assets/src/img/border.png"
     },
     {
+        "id": "duncreggan",
+        "title": "Duncreggan Student Village",
+        "image": null,
+        "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you tosettle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you.",
+        "link": "ulster.ac.uk/accommodation",
+        "activeLink": true
+    },
+    {
         "id": "mu-building",
         "title": "MU Building",
         "image": "./assets/src/img/mu-building.png",
@@ -48,8 +56,8 @@
         "id": "main-reception",
         "title": "Main Reception",
         "image": null,
-        "content": "<p>Visit the main reception to get your student card renewed or if you have a general enquiry about the campus.</p><p>Employability and Careers are here to help students develop the right skills and confidence for the future. They offer the Ulster EDGE Award, an award to complete alongside a degree that helps build  skills through different activities. They also provide lots of support to help students gain the relevant work experience and placements. This includes events on campus and virtually through the Handshake platform that help connect with employers and opportunities.</p>",
-        "link": "ulster.ac.uk/employability",
+        "content": "Visit the main reception to get your student card renewed or if you have a general enquiry about the campus.",
+        "link": null,
         "activeLink": true
     },
     {
@@ -153,7 +161,7 @@
         "title": "Bus Stop",
         "image": null,
         "content": "To plan your journey to campus via bus or rail, visit:",
-        "link": "trainlink.co.uk",
+        "link": "translink.co.uk",
         "activeLink": true
     },
     {

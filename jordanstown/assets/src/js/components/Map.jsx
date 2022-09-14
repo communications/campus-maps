@@ -96,7 +96,6 @@ const Map = ( props ) => {
         transform: `scale(${scale})`
     };
 
-
     function getActiveLinkState( id ) {
 
         let index = metaData.findIndex( x => x.id === id );
