@@ -162,7 +162,7 @@
         "image": null,
         "content": "You can pay for parking via card and cash at the dedicated pay point machines.",
         "link": null,
-        "activeLink": true
+        "activeLink": false
     },
     {
         "id": "bus-stop",
