@@ -62,10 +62,16 @@ body {
     }
 
     .react-transform-component {
-        width: 100%;
         height: 100%;
         display: flex;
         justify-content: center;
+        margin: 0 auto;
+    }
+
+    @media screen and (min-width: 1000px) {
+        .react-transform-component {
+            width: 100%;
+        }
     }
 
     .campus-map {
@@ -364,13 +370,13 @@ body {
     right: 2rem;
     z-index: 1;
 
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 1000px) {
         top: 2rem;
         flex-direction: row;
         align-items: flex-start;
     }
 
-    @media screen and (min-width: 800px) {
+    @media screen and (min-width: 1000px) {
         bottom: 2rem;
         flex-direction: column;
         align-items: flex-end;
