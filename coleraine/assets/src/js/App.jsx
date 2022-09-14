@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 
-import ZoomControls from './components/Zoom'
 import Map from './components/Map'
 import Sidebar from './components/Sidebar'
 import metaData from './app.json';

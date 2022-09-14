@@ -578,7 +578,6 @@ const Map = ( props ) => {
                     </TransformComponent>
                 </div>
             )}
-
         </TransformWrapper>
     )
 

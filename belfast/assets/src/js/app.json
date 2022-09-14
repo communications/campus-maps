@@ -9,7 +9,7 @@
         "title": "Academy",
         "image": null,
         "content": "Exquisite food created by Ulster's talented students who are committed to careers in hospitality, as chefs, entrepreneurs and future leaders.",
-        "link": "academyrestaurant.ac.uk",
+        "link": "academyrestaurant.co.uk",
         "activeLink": true
     },
     {
@@ -34,7 +34,7 @@
         "image": "./assets/src/img/block-bd.png",
         "content": "BD-02-011",
         "link": null,
-        "activeLink": true
+        "activeLink": false
     },
     {
         "id": "block-bc",
@@ -42,7 +42,7 @@
         "image": "./assets/src/img/block-bc.png",
         "content": "Employability and Careers are here to help students develop the right skills and confidence for the future. They offer the Ulster EDGE Award, an award to complete alongside a degree that helps build  skills through different activities.  They also provide lots of support to help students gain the relevant work experience and placements. This includes events on campus and virtually through the Handshake platform that help connect with employers and opportunities.",
         "link": "ulster.ac.uk/employability",
-        "activeLink": true
+        "activeLink": false
     },
     {
         "id": "block-bb",
@@ -169,7 +169,7 @@
         "title": "Transport",
         "image": null,
         "content": "To plan your journey to campus via bus or rail, visit:",
-        "link": "translink.co.uk",
+        "link": "www.translink.co.uk",
         "activeLink": true
     },
     {
@@ -177,7 +177,7 @@
         "title": "Transport",
         "image": null,
         "content": "<p>Curtis Street Carpark has 36 cycle racks (including secure lockers to store your cycling gear, activated by your student or staff ID Card).</p><p>Frederick Street Car Park has 193 cycle racks (secure lockers installed Autumn 2022).</p>",
-        "link": "translink.co.uk",
+        "link": "www.translink.co.uk",
         "activeLink": true
     },
     {
@@ -250,7 +250,7 @@
         "image": null,
         "content": "Block BC Level 01",
         "link": null,
-        "activeLink": true
+        "activeLink": false
     },
     {
         "id": "level1--library",
@@ -266,7 +266,7 @@
         "image": null,
         "content": "Block BC Level 02",
         "link": null,
-        "activeLink": true
+        "activeLink": false
     },
     {
         "id": "level2--student-wellbeing",
@@ -314,7 +314,7 @@
         "image": null,
         "content": "All our blocks can be accessed to each other internally",
         "link": "uusu.org",
-        "activeLink": true
+        "activeLink": false
     },
     {
         "id": "level3--teaching-spaces",

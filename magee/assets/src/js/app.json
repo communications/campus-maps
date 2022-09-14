@@ -18,7 +18,7 @@
         "image": "./assets/src/img/mu-building.png",
         "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you tosettle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you.",
         "link": "ulster.ac.uk/accommodation",
-        "activeLink": true
+        "activeLink": false
     },
     {
         "id": "library",
@@ -42,7 +42,7 @@
         "image": "./assets/src/img/martha-magee-building.png",
         "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you to settle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you.",
         "link": "ulster.ac.uk/accommodation",
-        "activeLink": true
+        "activeLink": false
     },
     {
         "id": "sports-centre",
@@ -161,7 +161,7 @@
         "title": "Bus Stop",
         "image": null,
         "content": "To plan your journey to campus via bus or rail, visit:",
-        "link": "translink.co.uk",
+        "link": "www.translink.co.uk",
         "activeLink": true
     },
     {

@@ -62,7 +62,7 @@
     },
     {
         "id": "dalriada-student-village",
-        "title": "Firesert Building",
+        "title": "Dalriada Student Village",
         "image": "./assets/src/img/student-accommodation.png",
         "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you to settle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you.",
         "link": "ulster.ac.uk/accommodation",
@@ -129,7 +129,7 @@
         "title": "Transport",
         "image": null,
         "content": "To plan your journey to the Sports Village via bus or rail.",
-        "link": "translink.co.uk",
+        "link": "www.translink.co.uk",
         "activeLink": true
     },
     {
@@ -137,7 +137,7 @@
         "title": "Transport",
         "image": null,
         "content": "To plan your journey to the Sports Village via bus or rail.",
-        "link": "translink.co.uk",
+        "link": "www.translink.co.uk",
         "activeLink": true
     },
     {
@@ -162,7 +162,7 @@
         "image": null,
         "content": "Each building/block is identified by a letter ie Student Wellbeing is situated in E block.",
         "link": null,
-        "activeLink": true
+        "activeLink": false
     },
     {
         "id": "digital-services",
@@ -176,7 +176,7 @@
         "id": "safe-zone",
         "title": "Safe Zone",
         "image": null,
-        "content": "Peace of mind in your pocket - feel safe on campus 24/7 with our free app. By installing the SafeZone app and registering as a user, you will also receive any critical security notifications from the University. We encourage all students to download this app to stay up to date whilst on campus.",
+        "content": "Peace of mind in your pocket - feel safe on campus 24/7 with our free app. By installing the SafeZone app and registering as a user, you will also receive any critical security notifications from the University. We encourage all students to download this app to stay up to date whilst in the Sports Village.",
         "link": "ulster.ac.uk/safezone",
         "activeLink": true
     },
