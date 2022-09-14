@@ -102,7 +102,7 @@ const Map = ( props ) => {
             defaultScale={1}
             defaultPositionX={0}
             defaultPositionY={0}
-            maxScale={3}
+            maxScale={5}
             wheel={{ step: 0.05, limitsOnWheel: true }}
             panning={{ velocity: true }}>
             {({ zoomIn, zoomOut, resetTransform, positionX, positionY, ...rest }) => (
