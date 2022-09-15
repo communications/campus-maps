@@ -2,6 +2,32 @@
 // See: github.com/necolas/normalize.css
 @import "normalize";
 
+@import url("https://p.typekit.net/p.css?s=1&k=sgf3ptj&ht=tk&f=10879.10881.10884.10885.10886.10887.15586&a=16030236&app=typekit&e=css");
+
+@font-face {
+    font-family: "futura-pt";
+    src: url("https://use.typekit.net/af/9b05f3/000000000000000000013365/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/9b05f3/000000000000000000013365/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/9b05f3/000000000000000000013365/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "futura-pt";
+    src: url("https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+    font-display: swap;
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "futura-pt";
+    src: url("https://use.typekit.net/af/c4c302/000000000000000000012192/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"), url("https://use.typekit.net/af/c4c302/000000000000000000012192/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"), url("https://use.typekit.net/af/c4c302/000000000000000000012192/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 600;
+}
+
 body {
     font-size: 1rem;
 }
@@ -318,7 +344,8 @@ body {
 
     .campus-map-sidebar__title {
         margin-top: 0;
-        font-family: 'futura-pt-bold', sans-serif;
+        font-family: 'futura-pt', sans-serif;
+        font-weight: 600;
         text-transform: uppercase;
         font-size: 1.125rem;
         color: #4f69aa;
@@ -327,6 +354,7 @@ body {
 
     .campus-map-sidebar__content {
         font-family: 'futura-pt', sans-serif;
+        font-weight: 400;
         line-height: 1.4;
 
         ul {
@@ -335,7 +363,8 @@ body {
     }
 
     .campus-map-sidebar__link {
-        font-family: 'futura-pt-bold', sans-serif;
+        font-family: 'futura-pt', sans-serif;
+        font-weight: 600;
         line-height: 1.4;
         margin-top: 1rem;
         color: black;
@@ -436,6 +465,7 @@ body {
             text-transform: uppercase;
             color: #FFF;
             font-family: 'futura-pt', sans-serif;
+            font-weight: 400;
         }
     }
 
