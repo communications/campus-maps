@@ -2,7 +2,7 @@
     {
         "id": "border",
         "title": "Border",
-        "image": "./assets/src/img/border.png"
+        "image": "https://www.ulster.ac.uk/_nocache?a=1303430:belfast/assets/src/img/border.png"
     },
     {
         "id": "academy",
@@ -15,7 +15,7 @@
     {
         "id": "main-reception",
         "title": "Main Reception",
-        "image": "./assets/src/img/reception.png",
+        "image": "https://www.ulster.ac.uk/_nocache?a=1303430:belfast/assets/src/img/reception.png",
         "content": "Visit the main reception to get your student card renewed or if you have a general enquiry about the campus.",
         "link": "ulster.ac.uk/student",
         "activeLink": true
@@ -23,7 +23,7 @@
     {
         "id": "uusu-bar",
         "title": "UUSU Bar",
-        "image": "./assets/src/img/uusu.png",
+        "image": "https://www.ulster.ac.uk/_nocache?a=1303430:belfast/assets/src/img/uusu.png",
         "content": "<strong>CQ Social</strong> - Food & Bar: Mon - Fri 10am - 10pm, Weekends 11:30am - 9pm. Keep up to date with what's happening uusu.org",
         "link": "uusu.org",
         "activeLink": true
@@ -31,7 +31,7 @@
     {
         "id": "block-bd",
         "title": "Block BD",
-        "image": "./assets/src/img/block-bd.png",
+        "image": "https://www.ulster.ac.uk/_nocache?a=1303430:belfast/assets/src/img/block-bd.png",
         "content": "BD-02-011",
         "link": null,
         "activeLink": false
@@ -39,7 +39,7 @@
     {
         "id": "block-bc",
         "title": "Block BC",
-        "image": "./assets/src/img/block-bc.png",
+        "image": "https://www.ulster.ac.uk/_nocache?a=1303430:belfast/assets/src/img/block-bc.png",
         "content": "Employability and Careers are here to help students develop the right skills and confidence for the future. They offer the Ulster EDGE Award, an award to complete alongside a degree that helps build  skills through different activities.  They also provide lots of support to help students gain the relevant work experience and placements. This includes events on campus and virtually through the Handshake platform that help connect with employers and opportunities.",
         "link": "ulster.ac.uk/employability",
         "activeLink": false
@@ -47,7 +47,7 @@
     {
         "id": "block-bb",
         "title": "Block BB",
-        "image": "./assets/src/img/block-bb.png",
+        "image": "https://www.ulster.ac.uk/_nocache?a=1303430:belfast/assets/src/img/block-bb.png",
         "content": null,
         "link": null,
         "activeLink": false
@@ -71,7 +71,7 @@
     {
         "id": "student-accommodation",
         "title": "Student Accommodation",
-        "image": "./assets/src/img/student-accommodation.png",
+        "image": "https://www.ulster.ac.uk/_nocache?a=1303430:belfast/assets/src/img/student-accommodation.png",
         "content": "Living in UU's student accommodation gives you exclusive access to activities, events and trips that help you to settle in and make new friends. Do you know that you have access to 24/7 support? Whatever you need, the team are ready to support you.",
         "link": "ulster.ac.uk/accommodation",
         "activeLink": true
@@ -95,7 +95,7 @@
     {
         "id": "belfast-cathedral",
         "title": "Belfast Cathedral",
-        "image": "./assets/src/img/belfast-cathedral.png",
+        "image": "https://www.ulster.ac.uk/_nocache?a=1303430:belfast/assets/src/img/belfast-cathedral.png",
         "content": null,
         "link": null,
         "activeLink": false

@@ -2,20 +2,6 @@
 // See: github.com/necolas/normalize.css
 @import "normalize";
 
-@font-face {
-    font-family: 'Futura PT Bold';
-    src: url('./assets/src/fonts/futura-pt-bold.woff2') format('woff2'),
-        url('./assets/src/fonts/futura-pt-bold.wof') format('woff');
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: 'Futura PT Book';
-    src: url('./assets/src/fonts/futura-pt-book.woff2') format('woff2'),
-        url('./assets/src/fonts/futura-pt-book.woff') format('woff');
-    font-weight: normal;
-}
-
 body {
     font-size: 1rem;
 }
@@ -299,7 +285,7 @@ body {
 
     .campus-map-sidebar__title {
         margin-top: 0;
-        font-family: 'Futura PT Bold', sans-serif;
+        font-family: 'futura-pt-bold', sans-serif;
         text-transform: uppercase;
         font-size: 1.125rem;
         color: #4f69aa;
@@ -307,7 +293,7 @@ body {
     }
 
     .campus-map-sidebar__content {
-        font-family: 'Futura PT Book', sans-serif;
+        font-family: 'futura-pt', sans-serif;
         line-height: 1.4;
 
         ul {
@@ -316,7 +302,7 @@ body {
     }
 
     .campus-map-sidebar__link {
-        font-family: 'Futura PT Bold', sans-serif;
+        font-family: 'futura-pt-bold', sans-serif;
         line-height: 1.4;
         margin-top: 1rem;
         color: black;
@@ -416,7 +402,7 @@ body {
             width: 4rem;
             text-transform: uppercase;
             color: #FFF;
-            font-family: 'Futura PT Book', sans-serif;
+            font-family: 'futura-pt', sans-serif;
         }
     }
 
