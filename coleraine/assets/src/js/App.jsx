@@ -9,7 +9,24 @@ const App = () => {
   const [selectedArea, setselectedArea] = useState({ 'area': '' })
   const [activeData, setActiveData] = useState({})
 
+  const [mapData, setMapData] = useState({});
+
   const app = document.getElementById('campus-map');
+
+  useEffect( () => {
+
+    const getMapData = async () => {
+      try {
+        const response = await Api.get( "https://www.ulster.ac.uk/_web_services/ulster/json/campus-maps/coleraine.json" )
+        setMapData( response.data )
+      } catch(err) {
+        console.log(err)
+      }
+    }
+
+    getMapData()
+
+  }, [])
 
   const setActiveArea = ( area, target ) => {
 
