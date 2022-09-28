@@ -13,12 +13,8 @@ import Axios from 'axios';
 const Api = Axios.create({
     baseUrl: "https://www.ulster.ac.uk/_web_services/ulster/json/campus-maps",
     headers: {
-        "Access-Control-Allow-Headers": "Content-Type",
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Methods": "GET",
         'Content-Type': 'application/json',
         'Accept': 'application/json',
-
     }
 });
 
