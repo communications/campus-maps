@@ -2,11 +2,9 @@ import React from 'react'
 import classnames from 'classnames';
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 
-import metaData from '../app.json';
-
 const Map = ( props ) => {
 
-    const { setActiveArea } = props;
+    const { setActiveArea, mapData } = props;
 
     function handleSelect( area, selected ) {
 
@@ -79,7 +77,7 @@ const Map = ( props ) => {
 
         let image = '';
 
-        metaData.map( data => {
+        mapData.map( data => {
             if ( data.id == areaID ) {
                 image = data.image
             }
@@ -91,8 +89,8 @@ const Map = ( props ) => {
 
     function getActiveLinkState( id ) {
 
-        let index = metaData.findIndex( x => x.id === id );
-        let activeState = metaData[index].activeLink;
+        let index = mapData.findIndex( x => x.id === id );
+        let activeState = mapData[index].activeLink;
 
         return activeState;
     }

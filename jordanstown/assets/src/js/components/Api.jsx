@@ -11,11 +11,10 @@ import Axios from 'axios';
  * using the WordPress wp_localize_script function.
  */
 const Api = Axios.create({
-    dataUrl: "https://www.ulster.ac.uk/_web_services/ulster/json/campus-maps",
+    baseUrl: "https://www.ulster.ac.uk/_web_services/ulster/json/campus-maps",
     headers: {
-        'Access-Control-Allow-Origin:': 'https://www.ulster.ac.uk',
         'Content-Type': 'application/json',
-        'Accept': 'application/json'
+        'Accept': 'application/json',
     }
 });
 
