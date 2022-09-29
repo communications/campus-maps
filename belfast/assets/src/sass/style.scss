@@ -109,14 +109,14 @@ body {
 
         .area-indicator circle,
         .area-indicator g {
-            stroke: #dd6ba9;
+            stroke: #9E2467;
             transition: fill 0.2s ease;
         }
 
         .area-indicator ellipse,
         .area-indicator circle,
         .background {
-            fill: #dd6ba9;
+            fill: #9E2467;
             transition: fill 0.2s ease;
         }
 
@@ -172,7 +172,7 @@ body {
         }
 
         .map--key-item>path.text--pink {
-            fill: #dd6ba9;
+            fill: #9E2467;
         }
 
         &:not(.is-disabled) {
@@ -225,12 +225,12 @@ body {
             .map--key-item:hover>.underline,
             .map--key-item:focus>.ellipse,
             .map--key-item:hover>.ellipse {
-                stroke: #dd6ba9;
+                stroke: #9E2467;
             }
 
             .map--key-item:focus>path:not(.background-area),
             .map--key-item:hover>path:not(.background-area) {
-                fill: #dd6ba9;
+                fill: #9E2467;
             }
 
             &.map-area--hydration-station .map--key-item:focus>.ellipse,
@@ -241,15 +241,15 @@ body {
             &.map-area--student-guide .map--key-item:hover>.ellipse,
             &.map-area--parking .map--key-item:focus>.ellipse,
             &.map-area--parking .map--key-item:hover>.ellipse {
-                fill: #dd6ba9 !important;
-                stroke: #dd6ba9 !important;
+                fill: #9E2467 !important;
+                stroke: #9E2467 !important;
             }
 
             &.map-area--block-name .map--key-item:focus>path.icon-background,
             &.map-area--block-name .map--key-item:hover>path.icon-background,
             &.map-area--building-name .map--key-item:focus>path.icon-background,
             &.map-area--building-name .map--key-item:hover>path.icon-background {
-                fill: #dd6ba9 !important;
+                fill: #9E2467 !important;
             }
 
         }
@@ -284,7 +284,7 @@ body {
     padding: 4rem 2rem;
 
     background-color: white;
-    border-left: 4px dotted #dd6ba9;
+    border-left: 4px dotted #9E2467;
 
     transition: transform .25s ease, visibility .25s ease;
     transform: translateX(100%);
@@ -334,7 +334,7 @@ body {
         transition: color 0.2s ease-in-out;
 
         &:hover {
-            color: #dd6ba9;
+            color: #9E2467;
             transition: color 0.2s ease-in-out;
         }
     }
@@ -350,7 +350,7 @@ body {
     }
 
     .campus-map-sidebar--close {
-        background-color: #dd6ba9;
+        background-color: #9E2467;
         width: 3rem;
         height: 3rem;
         border-radius: 99px;
@@ -396,7 +396,7 @@ body {
 
     button {
         border: none !important;
-        background-color: #dd6ba9;
+        background-color: #9E2467;
         width: 2.5rem;
         height: 2.5rem;
         padding: 0;
@@ -409,11 +409,11 @@ body {
 
         &.disabled {
             cursor: default;
-            background-color: darken(#dd6ba9, 20%);
+            background-color: darken(#9E2467, 20%);
             opacity: 0.5;
 
             &:hover {
-                background-color: darken(#dd6ba9, 20%);
+                background-color: darken(#9E2467, 20%);
             }
         }
 
