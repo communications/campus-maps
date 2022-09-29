@@ -106,9 +106,9 @@ const Map = ( props ) => {
             {({ zoomIn, zoomOut, resetTransform, positionX, positionY, ...rest }) => (
                 <div>
                     <div id="campus-map-zoom" className="campus-map-zoom">
-                        <button id="zoom-in" className="zoom-button zoom-button--in" onClick={() => zoomIn()}><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-plus"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg></button>
-                        <button id="zoom-out" className="zoom-button zoom-button--out" onClick={() => zoomOut()}><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-minus"><line x1="5" y1="12" x2="19" y2="12"></line></svg></button>
-                        <button id="reset" className="reset-button" onClick={() => resetTransform()}>Reset</button>
+                        <button id="zoom-in" label="Zoom in" className="zoom-button zoom-button--in" onClick={() => zoomIn()}><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-plus"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg></button>
+                        <button id="zoom-out" label="Zoom out" className="zoom-button zoom-button--out" onClick={() => zoomOut()}><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-minus"><line x1="5" y1="12" x2="19" y2="12"></line></svg></button>
+                        <button id="reset" label="Reset Zoom" className="reset-button" onClick={() => resetTransform()}>Reset</button>
                     </div>
                     <TransformComponent>
                         <svg xmlns="http://www.w3.org/2000/svg" className="campus-map__map" viewBox="0 0 1920 1358">

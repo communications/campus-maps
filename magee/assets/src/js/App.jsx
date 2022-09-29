@@ -4,7 +4,6 @@ import Api from './components/Api'
 import Map from './components/Map'
 import Sidebar from './components/Sidebar'
 import metaData from './app.json';
-import Axios from 'axios';
 
 const App = () => {
 
@@ -18,7 +17,7 @@ const App = () => {
 
     const getMapData = async () => {
       try {
-        const response = await Api.get( Axios.get( "https://www.ulster.ac.uk/_web_services/ulster/json/campus-maps/magee.json" ) )
+        const response = await Api.get( "https://www.ulster.ac.uk/_web_services/ulster/json/campus-maps/magee.json" )
         setMapData( response.data )
       } catch(err) {
         console.log(err)
