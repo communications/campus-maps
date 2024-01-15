@@ -136,7 +136,7 @@
         "id": "food-outlet",
         "title": "Food Outlet",
         "image": null,
-        "content": "<ul><li><strong>The Junction Food Hall</strong> Block BC Ground Floor</li><li><strong>Streetbeats</strong> Block BC Ground Floor</li><li><strong>AromaRoma</strong> Block BC Ground Floor</li><li><strong>Cathedral Quarter Social @UUSU Belfast</strong> Block BC Ground Floor</li><li><strong>The Point</strong> Block BC Level 03</li><li><strong>VERT</strong> Block BC Level 06</li><li><strong>York Street Coffee</strong> Block BD Ground Floor</li><li><strong>Paul & Henry</strong> Block BB Level 02 (At Link Bridge)</li><li><strong>HJEM</strong> Block BA Ground Floor</li></ul>",
+        "content": "<ul><li><strong>The Junction Food Hall</strong> Block BC Level 0</li><li><strong>AromaRoma</strong> Block BC, Level 0</li><li><strong>Cathedral Quarter Social</strong> Block BC, Level 0</li><li><strong>The Point</strong> Block BC, Level 3</li><li><strong>York Street Coffee</strong> Block BD, Level 0</li><li><strong>VERT</strong> Block BC, Level 6</li><li><strong>Hjem</strong> Block BA, Level 0</li></ul>",
         "link": "ulster.ac.uk/catering",
         "activeLink": true
     },
