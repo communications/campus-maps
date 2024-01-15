@@ -1,5 +1,7 @@
-import React from "react";
-import ReactDOM from "react-dom";
 import App from "./App";
+import { createRoot } from 'react-dom/client';
 
-ReactDOM.render( <App />, document.getElementById( "campus-map" ) );
+const container = document.getElementById("campus-map");
+const root = createRoot(container);
+
+root.render(<App />);
