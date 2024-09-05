@@ -387,5 +387,13 @@
         "content": "Your online go-to for everything you need to know about life at UU.",
         "link": "ulster.ac.uk/student",
         "activeLink": true
+    },
+    {
+        "id": "sports-centre",
+        "title": "Belfast Sports Centre",
+        "image": "https://www.ulster.ac.uk/_nocache?a=1303430:magee/assets/src/img/sports-centre.png",
+        "content": "Sport is a big part of life at Belfast and there is something to suit all levels and interests. Why not try a class with your friends or give the gym a go? The facilities offer affordable student rates.",
+        "link": "ulster.ac.uk/sport",
+        "activeLink": true
     }
 ]
